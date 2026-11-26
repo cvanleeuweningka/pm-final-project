@@ -1,5 +1,7 @@
 # My Product: Product Management Final Project
 
+Hello world
+
 > My final project for Product School's **Product Management** certification. One product concept, **StreamLine Spotlight** or **RouteLogic Velocity** (or my own initiative), taken from a raw problem to a launch-ready concept across six in-class labs, no homework required.
 
 This is a **template repo**. Click **Use this template → Create a new repository**, name it something like `pm-final-project`, and fill in one folder per module as you go. This is an **individual project**: your work is yours alone.
